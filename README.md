@@ -1,4 +1,4 @@
-# seminar_project
+# camera_analysis
 This my repo for my project on the study of the effects of camera defects on object detection accuracy.
 Read my report at '''Seminar_Paper.pdf'''
 
